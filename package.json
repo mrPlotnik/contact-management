@@ -60,7 +60,10 @@
           "jest": true
         }
       }
-    ]
+    ],
+    "rules": {
+      "linebreak-style": ["error", "windows"]
+    }
   },
   "browserslist": [
     "> 1%",
